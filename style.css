@@ -1,0 +1,73 @@
+html,
+body {
+  background: #ba9b77;
+  background-size: cover;
+  height: 100%;
+  width: 99%;
+  text-align: center;
+}
+h1 {
+  background-color: aliceblue;
+}
+h3 {
+  background-color: aliceblue;
+}
+p {
+  background-color: aliceblue;
+}
+.a {
+  color: red;
+}
+html,
+head {
+  text-align: center;
+}
+.img {
+  image-orientation: center;
+}
+#intro_to_tank {
+  text-align: center;
+  width: 98%;
+  height: 50%;
+  font-size: x-large;
+  margin-bottom: 0%;
+}
+#abrams {
+  float: left;
+}
+.why {
+  text-align: center;
+  padding-left: 40%;
+  margin-bottom: 8%;
+  font-size: x-large;
+}
+#kid {
+  float: right;
+}
+#abrams2 {
+  float: left;
+}
+#explain {
+  text-align: left;
+  width: 60%;
+  height: 50%;
+  font-size: x-large;
+}
+#gofund {
+  position: center;
+  height: 30%;
+  width: 40%;
+}
+.center {
+  position: center;
+  bottom: 30%;
+  left: 50%;
+  /* width: 40%;
+  height: 50%; */
+  width: 800px;
+  padding-left: 50%;
+}
+.tanks {
+  width: 30%;
+  padding-left: 110%;
+}
